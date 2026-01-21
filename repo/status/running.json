@@ -1,0 +1,23 @@
+{
+  "commandLine": [
+    "/opt/homebrew/bin/fdroid update",
+    "--clean"
+  ],
+  "fdroiddata": {
+    "commitId": "c0ba4a28c44a5bb62683d8eca2f64c4bef523caa",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": []
+  },
+  "stages": {
+    "delete_disabled_builds": 1769035881729,
+    "index.make repo": 1769035881731,
+    "prepare_apps repo": 1769035881730,
+    "process_apks": 1769035881729,
+    "read_added_date_from_all_apks": 1769035881730,
+    "remove_apks": 1769035881730,
+    "scan_repo_files": 1769035881730
+  },
+  "startTimestamp": 1769032281000,
+  "subcommand": "update"
+}
